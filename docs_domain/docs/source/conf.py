@@ -12,8 +12,8 @@ import sys
 sys.path.insert(0,str(Path(__file__).resolve().parents[2]/"src"))
 
 project = 'sales'
-copyright = '2026, Nikita Permak'
-author = 'Nikita Permak'
+copyright = '2026, Qucke'
+author = 'Qucke'
 release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
