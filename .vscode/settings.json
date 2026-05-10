@@ -1,7 +1,0 @@
-{
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "[makefile]": {
-        "editor.insertSpaces": false,
-        "editor.tabSize": 4
-    }
-}
